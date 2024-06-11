@@ -2,6 +2,7 @@ def add(a, b):
     return a + b
 
 print("updated code")
+print("changed")
 
 
 if __name__ == "__main__":
